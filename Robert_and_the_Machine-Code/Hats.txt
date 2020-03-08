@@ -1,0 +1,2 @@
+0, HiHat1;
+1, HiHat2; 
